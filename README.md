@@ -137,7 +137,7 @@
     <li>All team members involved in data preparation, analysis, and visualization</li>
 </ul>
 
-<h2>Contact</h2>
+
 
 </body>
 </html>
