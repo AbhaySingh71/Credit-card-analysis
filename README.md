@@ -31,10 +31,10 @@
 <p>The data for this analysis was obtained from a fictional credit card company. It includes various attributes such as:</p>
 <ul>
     <li>Customer ID</li>
-    <li>Transaction Date</li>
+    <li>Avg utilization</li>
     <li>Transaction Amount</li>
-    <li>Merchant Category</li>
-    <li>Payment Status</li>
+    <li>Revenue</li>
+    <li>Intrest</li>
     <li>Credit Limit</li>
     <li>Balance</li>
     <li>Customer Demographics</li>
@@ -138,7 +138,6 @@
 </ul>
 
 <h2>Contact</h2>
-<p>For any questions or further information, please contact [Your Name] at [Your Email Address].</p>
 
 </body>
 </html>
